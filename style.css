@@ -97,3 +97,23 @@ img{
     width: 150px;
 }
 
+.quote{
+    background: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.quote-text{
+    font-size: 36px;
+    width: 800px;
+    font-style: italic;
+}
+
+h4{
+    padding-top: 250px;
+    padding-right: 100px;
+    font-size: 36px;
+    font-style: italic;
+}
