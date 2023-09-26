@@ -117,3 +117,44 @@ h4{
     font-size: 36px;
     font-style: italic;
 }
+
+.action{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.outer{
+    display: flex;
+    background: #3882F6;
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+    width: 800px;
+}
+
+button{
+    padding: 8px 25px;
+    color: white;
+    background: #3882F6;
+    border-radius: 10px;
+    border:2px solid #E5E7EB;
+}
+
+.inner h2{
+    height: 10px;
+    color: #E5E7EB;
+}
+.inner p {
+    color: #E5E7EB;
+}
+
+.footer{
+    background: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+}
